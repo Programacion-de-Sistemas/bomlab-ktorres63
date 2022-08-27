@@ -1,4 +1,3 @@
 Brownie, you are doing a heck of a job.
 1 2 4 8 16 32
-33 3 +
-3 3 3
+3 -425
